@@ -2,7 +2,7 @@
   "name": "cm-spin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://samuraitruong.github.io/cm-spin/",
+  "homepage": "https://hungry-bell-4d4c31.netlify.app/",
   "dependencies": {
     "@material-ui/core": "^4.5.1",
     "@material-ui/icons": "^4.5.1",
